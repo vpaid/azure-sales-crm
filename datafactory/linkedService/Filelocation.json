@@ -6,8 +6,8 @@
 		"type": "FileServer",
 		"typeProperties": {
 			"host": "C:\\Users\\vanda\\Downloads\\CRM+Sales+Opportunities",
-			"userId": "vandan_095 patel",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiZDhjY2UyNS00YmNkLTRiOGItOTZlNS0zMzFiY2VjNTJlOGMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userId": "vanda",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0NTkwZGU0NS0xNTY5LTRjOTktOWQ1ZC02ZDhhYTIyNmRkYTgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onpremisisintegrationRuntime",
