@@ -1,0 +1,15 @@
+{
+	"name": "azurecrmsalesfactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fbe9e6ff-b9a4-48e7-abab-fddd3a0a1bf1",
+		"tenantId": "e2dd04ad-265e-4baf-9a51-cb6129f5ebff"
+	}
+}
